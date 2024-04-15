@@ -1,0 +1,2 @@
+# static
+Static resource repository
